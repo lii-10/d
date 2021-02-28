@@ -1,7 +1,8 @@
 {
     "name": "Devp",
     "short_name":"CalD",
-    "start_url":"/index.html",
+    "start_url":"/d/index.html",
+    "description": "App to show the desc, about daily life",
     "icons":[
             {
                 "src": "icons/manifest-icon-192.png",
